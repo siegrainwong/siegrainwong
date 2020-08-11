@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Siegrain's github stats](https://github-readme-stats.vercel.app/api?username=siegrainwong&theme=gradient)](https://github.com/siegrainwong)
+[![Siegrain's github stats](https://github-readme-stats.vercel.app/api?username=siegrainwong&theme=dracula)](https://github.com/siegrainwong)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siegrainwong)](https://github.com/siegrainwong)
+
 
 <!--
 **siegrainwong/siegrainwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
