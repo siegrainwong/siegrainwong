@@ -2,7 +2,7 @@
 
 [![Siegrain's github stats](https://github-readme-stats.vercel.app/api?username=siegrainwong&theme=dracula)](https://github.com/siegrainwong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siegrainwong)](https://github.com/siegrainwong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siegrainwong&layout=compact)](https://github.com/siegrainwong)
 
 
 <!--
